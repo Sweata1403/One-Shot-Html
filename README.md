@@ -11,7 +11,7 @@ The component used to design the
 structure of websites are called HTML tags.
 
 # - First HTML Script
-<!DOCTYPE html>
+//<!DOCTYPE html>
 <html lang="en">
 <head>
 <meta charset="UTF-8" />
@@ -22,5 +22,5 @@ structure of websites are called HTML tags.
 <body>
 <h1>Hello World!</h1>
 </body>
-</html>
+</html>//
 
