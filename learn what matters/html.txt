@@ -1,0 +1,12 @@
+make html file ✔
+make boileplate code ✔
+understand tag ✔
+understand live server ✔
+understand h1-h6 ✔
+understand p ✔
+understand br ✔
+understand img ✔
+understand a ✔      //hyperlinks/links
+understand div 
+understand id
+understand class
